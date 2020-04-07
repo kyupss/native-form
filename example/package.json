@@ -7,13 +7,13 @@
     "test": "jest"
   },
   "devDependencies": {
-    "babel": "^6.5.2",
+    "babel": "6.23.0",
     "babel-jest": "18.0.0",
     "babel-preset-react-native": "1.9.1",
-    "cross-env": "^3.1.4",
+    "cross-env": "3.2.4",
     "jest": "18.1.0",
-    "react-test-renderer": "~15.4.0-rc.4",
-    "webpack": "^1.14.0"
+    "react-test-renderer": "15.4.2",
+    "webpack": "1.15.0"
   },
   "peerDependencies": {
     "react": ">=15.4.0",
@@ -22,16 +22,16 @@
     "react-native-vector-icons": ">=4.0.0"
   },
   "dependencies": {
-    "immutable": "^3.8.1",
-    "react": ">=15.4.0",
-    "react-native": "^0.42.3",
+    "immutable": "3.8.2",
+    "react": "16.13.1",
+    "react-native": "0.42.3",
     "react-native-clean-form": "file:../",
-    "react-native-vector-icons": ">=4.0.0",
-    "react-redux": "^5.0.1",
-    "redux": "^3.6.0",
-    "redux-form": "^6.4.3",
+    "react-native-vector-icons": "6.6.0",
+    "react-redux": "5.1.2",
+    "redux": "3.7.2",
+    "redux-form": "6.8.0",
     "redux-immutablejs": "0.0.8",
-    "styled-components": "^1.4"
+    "styled-components": "1.4.6"
   },
   "jest": {
     "preset": "react-native"
