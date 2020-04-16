@@ -12,7 +12,7 @@
     "babel-preset-react-native": "1.9.2",
     "cross-env": "3.2.4",
     "jest": "18.1.0",
-    "react-test-renderer": "15.4.2",
+    "react-test-renderer": "15.6.2",
     "webpack": "1.15.0"
   },
   "peerDependencies": {
@@ -24,7 +24,7 @@
   "dependencies": {
     "immutable": "3.8.2",
     "react": "16.13.1",
-    "react-native": "0.42.3",
+    "react-native": "0.62.2",
     "react-native-clean-form": "file:../",
     "react-native-vector-icons": "6.6.0",
     "react-redux": "5.1.2",
