@@ -29,7 +29,7 @@
     "react-native-vector-icons": "6.6.0",
     "react-redux": "5.1.2",
     "redux": "3.7.2",
-    "redux-form": "6.8.0",
+    "redux-form": "8.3.7",
     "redux-immutablejs": "0.0.8",
     "styled-components": "1.4.6"
   },
