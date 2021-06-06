@@ -30,7 +30,7 @@
     "redux-form-immutable.js"
   ],
   "devDependencies": {
-    "react-native": "0.62.2"
+    "react-native": "0.64.2"
   },
   "peerDependencies": {
     "react-native": "*"
