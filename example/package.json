@@ -8,10 +8,10 @@
   },
   "devDependencies": {
     "babel": "6.23.0",
-    "babel-jest": "18.0.0",
+    "babel-jest": "27.0.2",
     "babel-preset-react-native": "1.9.2",
     "cross-env": "3.2.4",
-    "jest": "18.1.0",
+    "jest": "27.0.4",
     "react-test-renderer": "15.6.2",
     "webpack": "1.15.0"
   },
